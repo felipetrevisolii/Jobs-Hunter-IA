@@ -1,0 +1,26 @@
+# Credenciais e configuracoes privadas
+.env
+.env.*
+!.env.example
+credentials*.json
+*secret*.json
+# Dados pessoais e historicos locais
+curriculo*.pdf
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+logs/
+*.log
+# Backups e arquivos temporarios
+backup*/
+*.bak
+*.rar
+*.zip
+*.desativado
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.vscode/

@@ -1,0 +1,5 @@
+python-dotenv>=1.0,<2
+requests>=2.30,<3
+beautifulsoup4>=4.12,<5
+gspread>=6.0,<7
+google-auth>=2.20,<3
