@@ -6,7 +6,7 @@ Projeto desenvolvido em Python para coletar vagas publicadas em diferentes plata
 
 O sistema utiliza regras configuráveis de filtragem e pontuação para priorizar vagas de acordo com o perfil profissional desejado.
 
-> Status: versão pública em preparação e validação.
+> Status: primeira versão pública disponível no GitHub.
 
 ## Visão geral
 
@@ -176,7 +176,7 @@ Os seguintes arquivos e informações devem permanecer fora do GitHub:
 
 O projeto possui um `.gitignore` para ajudar a proteger esses arquivos.
 
-Antes de qualquer publicação, ainda será necessária uma revisão final de segurança do código e do conteúdo que será versionado.
+Antes de futuras atualizações, revise os arquivos para evitar a publicação de credenciais ou informações privadas.
 
 ## Limitações
 
@@ -190,7 +190,7 @@ A execução automatizada deve respeitar as condições de uso das fontes consul
 
 A versão de produção já foi utilizada para buscas automatizadas e registro de oportunidades.
 
-Esta cópia pública está passando por reorganização, revisão de segurança e validação funcional antes de ser disponibilizada no GitHub.
+A versão pública está disponível no GitHub. Os testes offline foram aprovados; as integrações externas dependem de configuração no ambiente de execução.
 
 ## Objetivo do projeto
 
